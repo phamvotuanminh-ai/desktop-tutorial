@@ -12,6 +12,7 @@ Xây dựng hệ thống web quản lý trung tâm tiếng Anh nhằm tối ưu 
 - **System (Hệ thống tự động):** Tự động gửi thông báo, nhắc lịch học, sao lưu dữ liệu.
 
 ## 3. Sơ đồ thực thể (ERD)
-<img width="1231" height="726" alt="image" src="https://github.com/user-attachments/assets/c4104b8a-f5fe-4251-8c5c-1f81410287dd" />
+<img width="1207" height="730" alt="image" src="https://github.com/user-attachments/assets/4ee5f5e7-5633-4307-9523-3d55eef08d51" />
+
 
 
