@@ -1,4 +1,4 @@
-# Website Quản Lý Trung Tâm Tiếng Anh
+<img width="3172" height="2592" alt="Biểu đồ không có tiêu đề drawio" src="https://github.com/user-attachments/assets/17baadad-6a2a-417b-bc64-9f6940a5d07e" /># Website Quản Lý Trung Tâm Tiếng Anh
 
 ## 1. Mục tiêu đề tài
 Xây dựng hệ thống web quản lý trung tâm tiếng Anh nhằm tối ưu hóa quy trình vận hành, hỗ trợ quản lý khóa học, lớp học, học viên, giáo viên, phụ huynh và quy trình đăng ký/thanh toán.
@@ -12,5 +12,6 @@ Xây dựng hệ thống web quản lý trung tâm tiếng Anh nhằm tối ưu 
 - **System (Hệ thống tự động):** Tự động gửi thông báo, nhắc lịch học, sao lưu dữ liệu.
 
 ## 3. Sơ đồ thực thể (ERD)
-![Uploading Biểu đồ không có tiêu đề.drawio.png…]()
+<img width="1231" height="726" alt="image" src="https://github.com/user-attachments/assets/c4104b8a-f5fe-4251-8c5c-1f81410287dd" />
+
 
